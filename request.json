@@ -1,0 +1,13 @@
+{
+  "name": "whoami API"
+  "author": "tolensky"
+  "dependencies": {
+    "express" : "^4.14.0"
+  }
+  "main": "index.js"
+  "description": "The program returns GET requests with the computers IP adress, preferred language and software specifics."
+  "keywords": ["api", "computer specs", "microsservice", "whoami", "ip", "language", "software"]
+  "license": "Open license"
+  "version": "1.0.0"
+}
+
